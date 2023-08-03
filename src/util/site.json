@@ -1,10 +1,10 @@
 {
   "meta": {
-    "title": "Foundation",
+    "title": "How to Make Money",
     "titleTemplate": "%s",
-    "description": "A starter to launch your blazing fast personal website and a blog, Built with Gatsby and Netlify CMS. Made with ❤ by Stackrole",
-    "siteUrl": "https://foundation.stackrole.com",
-    "image": "/assets/stackrole.png",
+    "description": "A starter to launch your blazing fast personal website and a blog",
+    "siteUrl": "https://bums223.netlify.app/",
+    "image": "/assets/william.jpg",
     "iconimage": "/assets/stackrole.png",
     "twitterUsername": "@stackrole"
   },
